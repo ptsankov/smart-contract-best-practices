@@ -1,5 +1,6 @@
 ### Static Analysis
 
+- [Securify](https://securify.ch) - Automated verification of smart contracts with examples of good/bad practices.
 - [Manticore](https://github.com/trailofbits/manticore) - Dynamic binary analysis tool with [EVM support](https://asciinema.org/a/haJU2cl0R0Q3jB9wd733LVosL)
 - [Mythril](https://github.com/b-mueller/mythril/) - Reversing and bug hunting framework for the Ethereum blockchain
 - [Oyente](https://github.com/melonproject/oyente) - Analyze Ethereum code to find common vulnerabilities, based on this [paper](http://www.comp.nus.edu.sg/~loiluu/papers/oyente.pdf).
